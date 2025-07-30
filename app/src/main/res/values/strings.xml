@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Xkcdroid</string>
+    <string name="action_retry">Retry</string>
+
+    <string name="error_unknown">An unknown error occurred</string>
+    <string name="error_loading_comic">Could not load the requested comic</string>
+    <string name="error_range_not_determined">Could not determine the comic range</string>
+
+    <string name="random_comic">Random Comic</string>
+    <string name="latest_comic">Go to Latest Comic</string>
+    <string name="previous_comic">Previous Comic</string>
+    <string name="next_comic">Next Comic</string>
+    <string name="favorite">Favorite</string>
+    <string name="read_aloud">Read Aloud</string>
+    <string name="comic_number">Comic Number</string>
+    <string name="search_comic">Search Comic</string>
+
+    <string name="premium_feature_headline">Premium Feature</string>
+    <string name="premium_feature_locked">Premium Feature Locked</string>
+    <string name="premium_feature_ask_again">Please ask again in 5 minutes</string>
+    <string name="premium_feature_please_transfer">This feature requires the Super-Premium upgrade. Please transfer 99.99€ to unlock.</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+</resources>
